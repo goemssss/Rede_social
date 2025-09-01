@@ -164,6 +164,7 @@ export const contractABIMarketPlace = [
 		"stateMutability": "view",
 		"type": "function"
 	},
+	
 	{
 		"inputs": [],
 		"name": "owner",
