@@ -6,7 +6,7 @@ import HeadLine from "../headLine";
 const Team = () => {
   return (
     <div>
-      {/* <!-- Team -aaaaaaaasss-> */}
+      {/* <!-- Team -aaaaaaaaaasss-> */}
       <section className="py-24">
         <div className="container">
           <HeadLine
