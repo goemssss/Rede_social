@@ -28,7 +28,7 @@ const Story = ({ compFor }) => {
 								</div>
 							</div>
 
-							{/* <!-- estive aqui --> */}
+							{/* <!-- estive aqui x1 --> */}
 							<div className="py-20 lg:w-[45%] lg:pl-16">
 								<h2 className="text-jacarta-700 font-display mb-6 text-2xl dark:text-white">
 									Get Experience. Were A Results Driven Team.
